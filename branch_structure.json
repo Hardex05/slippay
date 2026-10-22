@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-212-fix-api-align-the-cors-allowlist-with-the",
+    "fix/issue-205-fix-api-reject-malformed-fiat-amounts-instead",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-212-fix-api-align-the-cors-allowlist-with-the": "main",
+    "fix/issue-205-fix-api-reject-malformed-fiat-amounts-instead": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-212-fix-api-align-the-cors-allowlist-with-the",
+    "fix/issue-205-fix-api-reject-malformed-fiat-amounts-instead",
+    "origin"
+  ]
+}
